@@ -1,0 +1,34 @@
+. Vẽ sơ đồ usecase cho 2 actor trên (DONE)
+	4. Quản lý kho (Bảo)
+		Đăng nhập
+		Đăng xuất
+		Quản lý sản phẩm
+		Quản lý kho (quản lý kho, thống kê báo cáo)
+		Quản lý nhân viên
+
+	5. Nhân viên xử lý đơn hàng (Bảo)
+		Đăng nhập 
+		Đăng xuất 
+		Chat với khách hàng
+		Phản hồi đánh giá của khách hàng
+		Quản lý đơn hàng (Xử lý đơn hàng (chọn lấy tại cửa hàng…, giao hàng....)
+
+
+
+. Vẽ sơ đồ usecase va viet mo ta cho cac chuc nang sau: (DONE)
+		Đăng nhập (x)
+		Đăng xuất (x)
+		Quản lý sản phẩm 
+		Quản lý kho 
+		Quản lý nhân viên
+		Chat với khách hàng
+		Phản hồi đánh giá của khách hàng
+		Quản lý đơn hàng (Xử lý đơn hàng (chọn lấy tại cửa hàng…, giao hàng....)
+
+. Vẽ các thực thể trong CDM (DONE)
+	Manager (Bảo)
+	Warehouse (Bảo) 
+	Product (Bảo)   
+	Payment (Bảo)
+	Shipment (Bảo)
+

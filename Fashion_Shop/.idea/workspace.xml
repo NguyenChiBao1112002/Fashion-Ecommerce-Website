@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="381fc6ed-dc0b-4071-b9af-6528ad1520a1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Fashion-Shop-Backend-Spring-Boot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Fashion-Shop-Backend-Spring-Boot/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fashion-Shop-Backend-Spring-Boot/src/main/java/ct250/backend/customer/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fashion-Shop-Backend-Spring-Boot/src/main/java/ct250/backend/customer/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fashion-Shop-Backend-Spring-Boot/src/main/java/ct250/backend/customer/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fashion-Shop-Backend-Spring-Boot/src/main/java/ct250/backend/customer/CustomerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fashion-Shop-Backend-Spring-Boot/src/main/java/ct250/backend/customer/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fashion-Shop-Backend-Spring-Boot/src/main/java/ct250/backend/customer/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fashion-shop-frontend-vue/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/fashion-shop-frontend-vue/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fashion-shop-frontend-vue/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/fashion-shop-frontend-vue/src/router/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fashion-shop-frontend-vue/src/views/HomeView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/fashion-shop-frontend-vue/src/views/HomeView.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Fashion-Shop-Backend-Spring-Boot" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2ddDokY38yFJA0De9nZRH05DaII" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "3.13.2024",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/BaoNguyen/OneDrive/Máy tính/NLN/Fashion_Shop",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="381fc6ed-dc0b-4071-b9af-6528ad1520a1" name="Changes" comment="" />
+      <created>1710329239834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710329239834</updated>
+      <workItem from="1710329241057" duration="56000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
